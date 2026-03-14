@@ -1,0 +1,11 @@
+{
+    "workbench.editorAssociations": {
+        "*.parquet": "duckdb.dataFileViewer",
+        "*.csv": "default",
+        "*.tsv": "duckdb.dataFileViewer"
+    },
+    
+    "terminal.integrated.env.windows": {
+        "PYTHONPATH": "${workspaceFolder}"
+    }
+}
